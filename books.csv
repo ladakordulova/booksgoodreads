@@ -729,7 +729,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 2338,Matthew Flinders' Cat,Bryce Courtenay,3.80,0670910619,9780670910618,eng,611,2737,161,12/31/2002,Viking
 2343,Solomon's Song (The Potato Factory  #3),Bryce Courtenay,4.01,0140271570,9780140271577,eng,671,3920,132,8/31/2001,Penguin Books Australia Ltd.
 2348,An Introduction to Old Norse,E.V. Gordon/A.R. Taylor,4.10,0198111843,9780198111849,eng,412,104,7,7/23/1981,Oxford University Press
-2353,Cold Counsel: Women in Old Norse Literature and Myth,Sarah M.  Anderson/Karen Swenson,3.68,0815319665,9780815319665,eng,320,19,2,12/21/2002,Routledge
+2353,The Son of Neptune,Rick Riordan,4.41,9781423140597,1423140591,eng,559565,22317,1627,11/04/2011,Disney-Hyperion Books
 2367,Brave Companions: Portraits in History,David McCullough,3.98,0671792768,9780671792763,eng,240,3460,482,11/1/1992,Simon Schuster
 2368,Mornings on Horseback: The Story of an Extraordinary Family  a Vanished Way of Life  and the Unique Child Who Became Theodore Roosevelt,David McCullough,4.12,0671447548,9780671447540,eng,445,23064,1191,5/12/1982,Simon  Schuster
 2370,John Adams,David McCullough,4.06,0684813637,9780684813639,en-US,752,1852,285,5/1/2001,Simon & Schuster
@@ -1274,7 +1274,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 4404,American Gods,Neil Gaiman,4.11,0060010606,9780060010607,eng,635,1211,169,6/1/2001,PerfectBound (HarperCollins)
 4405,American Gospel: God  the Founding Fathers  and the Making of a Nation,Jon Meacham,3.80,1400065550,9781400065554,eng,399,1876,244,4/4/2006,Random House (NY)
 4407,American Gods (American Gods  #1),Neil Gaiman,4.11,0747263744,9780747263746,eng,635,383045,15962,3/4/2005,Headline Review
-4408,City of Bones,Cassandra Clare,4.07,9781416914280,1416914285,eng,1963024,74463,3/27/2007,McElderry Books
+4408,City of Bones,Cassandra Clare,4.07,9781416955078,1416914285,eng,1963024,74463,3/27/2007,McElderry Books
 4411,Eden in the East: The Drowned Continent of Southeast Asia,Stephen Oppenheimer,3.98,0753806797,9780753806791,eng,575,99,15,7/1/1999,Orion Publishing
 4415,East Of Eden,John Steinbeck,4.37,0553116088,9780553116083,eng,691,83,18,1/1/1977,Bantam Books
 4417,Who Was John F. Kennedy?,Yona Zeldis McDonough/Nancy Harrison/Jill Weber,4.18,0448437430,9780448437439,eng,112,679,116,12/29/2004,Grosset & Dunlap
@@ -1426,7 +1426,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 4963,Merry Christmas  Stinky Face,Lisa McCourt/Cyd Moore,3.97,0439635772,9780439635776,eng,32,20,3,10/1/2004,Scholastic
 4964,Love You Until--,Lisa McCourt/Cyd Moore,4.50,0809166585,9780809166589,eng,32,4,0,12/3/2005,Paulist Press
 4965,Year of Wonders,Geraldine Brooks,4.01,0142001430,9780142001431,eng,358,120736,8549,4/30/2002,Penguin Books
-4966,The Lightning Thief,Rick Riordan,4.30,0786838655,9780786838653,en-US,2833650,91494,7/28/2005,Bantam Books
+4966,The Lightning Thief,Rick Riordan,4.30,0786856297,9780786838653,en-US,2833650,91494,7/28/2005,Bantam Books
 4978,Wolves of the Calla (The Dark Tower  #5),Stephen King/Bernie Wrightson,4.18,141651693X,9781416516934,eng,931,127168,2801,2/1/2006,Pocket Books
 4979,A Man Without a Country,Kurt Vonnegut Jr./Daniel Simon,4.07,081297736X,9780812977363,eng,160,34339,2061,1/16/2007,Random House Trade Paperbacks
 4981,Slaughterhouse-Five,Kurt Vonnegut Jr.,4.07,0385333846,9780385333849,eng,275,1001671,19056,1/12/1999,Dial Press
@@ -1674,7 +1674,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 5826,Bel Canto,Ann Patchett,3.93,0060838728,9780060838720,eng,352,218195,13012,8/2/2005,Harper Perennial
 5835,Guerilla Film Makers Movie Blueprint,Chris          Jones/Jonathan Newman/Cara Williams,4.20,0826414532,9780826414533,eng,608,50,1,6/20/2003,Bloomsbury Academic
 5838,Mini-Manual of the Urban Guerrilla,Carlos Marighella,3.31,1894925025,9781894925020,en-US,66,127,13,9/9/2002,Abraham Guillen Press
-5843,The Career Programmer: Guerilla Tactics for an Imperfect World (Expert's Voice),Christopher   Duncan,3.13,1590596242,9781590596241,en-US,264,37,7,2/1/2006,Apress
+5843,A Memory of Light,Robert Jordan/Brandon Sanderson,4.56,9780765325952,9781590596241,en-US,139784,8209,53,2/1/2006,Apress
 5845,A Bend in the River,V.S. Naipaul,3.77,0330487140,9780330487146,eng,326,13147,690,5/10/2002,Picador USA
 5848,The Middle Passage,V.S. Naipaul,3.61,0375708340,9780375708343,en-US,256,461,35,1/8/2002,Vintage
 5851,Magic Seeds,V.S. Naipaul,3.13,0375707271,9780375707278,eng,280,715,104,11/8/2005,Vintage
@@ -1862,7 +1862,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 6613,Four Blondes,Candace Bushnell,2.82,080213825X,9780802138255,eng,256,23409,877,6/8/2001,Grove Press
 6614,Lipstick Jungle,Candace Bushnell,3.41,0786887079,9780786887071,eng,496,37514,780,8/8/2006,Hachette Books
 6615,Lipstick Jungle,Candace Bushnell,3.41,0786893966,9780786893966,eng,532,422,48,4/1/2007,Hachette Books
-6618,The Easy Way to Stop Smoking: Join the Millions Who Have Become Nonsmokers Using the Easyway Method,Allen Carr,4.30,1402718616,9781402718618,eng,224,3510,510,9/23/2004,Sterling
+6618,Fablehaven,Brandon Mull,4.13,9781590385814,9781402718618,eng,161790,12208,663,6/7/2006,Sterling
 6619,Teach Your Child to Read in 100 Easy Lessons,Siegfried Engelmann/Phyllis Haddox/Elaine Bruner,4.17,0671631985,9780671631987,en-US,395,2207,271,6/15/1986,Touchstone
 6624,It's Not Easy Being Green: And Other Things to Consider,Jim Henson/Cheryl Henson,4.20,1401302424,9781401302429,eng,197,1409,168,9/14/2005,Hyperion
 6625,Playing Easy to Get (B.A.D. Agency #1.5; Vikings Underground #3; Immortals After Dark #1),Sherrilyn Kenyon/Jaid Black/Kresley Cole,4.13,1416510877,9781416510871,eng,352,12509,340,2/7/2006,Gallery Books
@@ -2060,7 +2060,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,rating
 7439,Naked Lunch: The Restored Text,William S. Burroughs,3.46,0007204442,9780007204441,eng,289,509,65,5/3/2005,HarperCollins Publishers
 7444,The Electric Kool-aid Acid Test/The Kandy Kolored Tangerine Flake Streamline Baby/Radical Chic & Mau Mauing the Flak Catchers,Tom Wolfe,3.97,0965079929,9780965079921,eng,943,299,14,12/1/1990,Quality Paperback Book Club
 7445,The Glass Castle,Jeannette Walls,4.27,074324754X,9780743247542,eng,288,808656,46176,1/17/2006,Scribner
-7453,Same Sex in the City,Lauren  Levin/Lauren Blitzer,3.62,1416916326,9781416916321,eng,250,389,37,6/1/2006,Gallery Books
+7453,Chosen,P.C. Cast,3.91,9780312360306,9781416916321,eng,241601,4845,374,6/1/2006,Gallery Books
 7454,Sex and the City: Kiss and Tell,Amy Sohn/Sarah Jessica Parker,4.01,0743456815,9780743456814,en-US,160,86,6,10/15/2002,Pocket Books
 7477,Human Traces,Sebastian Faulks,3.63,0375502262,9780375502262,en-US,563,39,12,9/30/2006,Random House (NY)
 7480,The Girl at the Lion d'Or,Sebastian Faulks,3.58,0375704531,9780375704536,eng,246,4630,272,12/7/1999,Vintage
